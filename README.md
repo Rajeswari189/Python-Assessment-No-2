@@ -1,6 +1,6 @@
 # Python Assignment 2
 
-This submission includes all required tasks for Topic 1 and Topic 2 of the assignment.
+This submission includes all required tasks for Topic 1 and Topic 2 of the assignment. and I have installed the vs-code(IDE) and python3 in local machine(laptop)
 
 ## Files Included
 
