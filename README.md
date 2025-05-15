@@ -1,0 +1,18 @@
+# Python Assignment 2
+
+This submission includes all required tasks for Topic 1 and Topic 2 of the assignment.
+
+## Files Included
+
+- `hello.py`: Prints name and greeting.
+- `intro_script.py`: Prints greeting with code comments.
+- `rectangle.py`: Calculates area and perimeter.
+- `compare_numbers.py`: Compares two input numbers.
+- `leap_year.py`: Checks for leap year.
+- `operators_demo.py`: Demonstrates arithmetic and logical operators.
+- `concatenate.py`: Concatenates and prints full name.
+
+Run each file using Python 3:
+```bash
+python filename.py
+```
